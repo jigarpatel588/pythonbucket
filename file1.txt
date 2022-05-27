@@ -1,3 +1,7 @@
 today is sunday
 
+<<<<<<< HEAD
 added from feature jigar branch
+=======
+added from feature1 branch
+>>>>>>> 4382291c4d0b9dfc1801e5e4f2c338577b4bc8f3
